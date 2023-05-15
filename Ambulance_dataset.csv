@@ -1,0 +1,100 @@
+condition1,condition2,location1,location2,Hospital,Distance
+critical,surgeon,Itgalapur,Doddaballapur,Aster,20
+critical,Orthopedist,Itgalapur,Doddaballapur,Apollo,20
+critical,physiologist,Itgalapur,Yelhanka,sahasra,25
+normal,Radiologist,Rajunkunte,Itgalapur,Fortis,10
+abnormal,pediatrician,Rajunkunte,Rajunkunte,Fortis,0
+abnormal,physiologist,Rajunkunte,Yelhanka,sahasra,15
+normal,surgeon,Rajunkunte,Yelhanka,Apollo,15
+normal,Orthopedist,Doddaballapur,Yelhanka,Apollo,30
+normal,cardiologist,Rajunkunte,Yelhanka,Apollo,15
+critical,Radiologist,Yelhanka,Yelhanka,Apollo,0
+critical,pediatrician,Doddaballapur,Doddaballapur,sahasra,0
+critical,cardiologist,Rajunkunte,Doddaballapur,Apollo,18
+abnormal,Orthopedist,Rajunkunte,Itgalapur,Manipal ,10
+normal,pediatrician,Rajunkunte,Yelhanka,sahasra,15
+normal,Radiologist,Rajunkunte,Yelhanka,Apollo,15
+normal,Orthopedist,Yelhanka,Itgalapur,Aster,25
+normal,physiologist,Yelhanka,Itgalapur,sahasra,25
+abnormal,pediatrician,Yelhanka,Itgalapur,sahasra,25
+critical,physiologist,Yelhanka,Doddaballapur,Fortis,30
+critical,pediatrician,Itgalapur,Rajunkunte,sahasra,10
+abnormal,Orthopedist,Itgalapur,Itgalapur,Apollo,0
+critical,surgeon,Doddaballapur,Yelhanka,Aster,30
+critical,Radiologist,Doddaballapur,Yelhanka,Apollo,30
+normal,surgeon,Yelhanka,Doddaballapur,Apollo,30
+critical,physiologist,Doddaballapur,Rajunkunte,Fortis,18
+abnormal,cardiologist,Itgalapur,Yelhanka,Fortis,25
+critical,Radiologist,Yelhanka,Yelhanka,Manipal ,0
+abnormal,Orthopedist,Doddaballapur,Itgalapur,Apollo,20
+normal,Radiologist,Yelhanka,Itgalapur,Fortis,25
+critical,Orthopedist,Yelhanka,Rajunkunte,Aster,15
+abnormal,physiologist,Doddaballapur,Itgalapur,Aster,20
+normal,Orthopedist,Doddaballapur,Yelhanka,Aster,30
+critical,physiologist,Rajunkunte,Rajunkunte,Manipal ,0
+critical,surgeon,Yelhanka,Doddaballapur,Manipal ,30
+normal,Radiologist,Rajunkunte,Itgalapur,Manipal ,10
+critical,Orthopedist,Rajunkunte,Doddaballapur,Apollo,18
+abnormal,pediatrician,Yelhanka,Itgalapur,sahasra,25
+normal,cardiologist,Yelhanka,Itgalapur,Apollo,25
+normal,cardiologist,Yelhanka,Doddaballapur,Manipal ,30
+abnormal,surgeon,Yelhanka,Doddaballapur,Aster,30
+normal,physiologist,Doddaballapur,Yelhanka,Fortis,30
+abnormal,Radiologist,Doddaballapur,Rajunkunte,Manipal ,18
+normal,pediatrician,Yelhanka,Rajunkunte,Fortis,15
+critical,Orthopedist,Rajunkunte,Rajunkunte,sahasra,0
+abnormal,physiologist,Itgalapur,Doddaballapur,Manipal ,20
+abnormal,pediatrician,Doddaballapur,Itgalapur,Apollo,20
+critical,pediatrician,Doddaballapur,Rajunkunte,Apollo,18
+critical,cardiologist,Rajunkunte,Itgalapur,Fortis,10
+critical,pediatrician,Rajunkunte,Rajunkunte,Fortis,0
+critical,Radiologist,Rajunkunte,Rajunkunte,Fortis,0
+abnormal,Orthopedist,Yelhanka,Rajunkunte,Manipal ,15
+critical,surgeon,Rajunkunte,Rajunkunte,Manipal ,0
+abnormal,Radiologist,Yelhanka,Doddaballapur,sahasra,30
+critical,physiologist,Yelhanka,Itgalapur,Manipal ,25
+normal,Radiologist,Doddaballapur,Doddaballapur,sahasra,0
+normal,Radiologist,Itgalapur,Yelhanka,Fortis,25
+abnormal,cardiologist,Itgalapur,Itgalapur,Fortis,0
+normal,cardiologist,Doddaballapur,Rajunkunte,sahasra,18
+abnormal,Orthopedist,Yelhanka,Doddaballapur,Fortis,30
+abnormal,Radiologist,Itgalapur,Doddaballapur,Apollo,20
+abnormal,physiologist,Yelhanka,Itgalapur,Manipal ,25
+normal,Orthopedist,Itgalapur,Itgalapur,Manipal ,0
+abnormal,cardiologist,Itgalapur,Yelhanka,Apollo,25
+normal,pediatrician,Itgalapur,Rajunkunte,Manipal ,10
+abnormal,Orthopedist,Rajunkunte,Doddaballapur,Apollo,18
+abnormal,Orthopedist,Itgalapur,Itgalapur,sahasra,0
+normal,Radiologist,Itgalapur,Doddaballapur,Apollo,20
+normal,surgeon,Yelhanka,Rajunkunte,Fortis,15
+abnormal,Radiologist,Itgalapur,Doddaballapur,Manipal ,20
+critical,physiologist,Itgalapur,Itgalapur,Apollo,0
+critical,pediatrician,Rajunkunte,Yelhanka,Manipal ,15
+normal,pediatrician,Yelhanka,Rajunkunte,Aster,15
+normal,surgeon,Doddaballapur,Itgalapur,sahasra,20
+abnormal,pediatrician,Itgalapur,Yelhanka,sahasra,25
+normal,physiologist,Itgalapur,Rajunkunte,Fortis,10
+normal,cardiologist,Doddaballapur,Doddaballapur,Apollo,0
+normal,pediatrician,Itgalapur,Doddaballapur,Manipal ,20
+critical,pediatrician,Doddaballapur,Doddaballapur,Fortis,0
+normal,pediatrician,Rajunkunte,Itgalapur,Manipal ,10
+abnormal,physiologist,Rajunkunte,Itgalapur,Aster,10
+normal,physiologist,Rajunkunte,Doddaballapur,sahasra,18
+abnormal,cardiologist,Rajunkunte,Rajunkunte,Fortis,0
+normal,cardiologist,Doddaballapur,Itgalapur,Apollo,20
+critical,physiologist,Doddaballapur,Doddaballapur,Apollo,0
+abnormal,Radiologist,Rajunkunte,Itgalapur,sahasra,10
+critical,pediatrician,Yelhanka,Yelhanka,Aster,0
+critical,cardiologist,Rajunkunte,Rajunkunte,Aster,0
+critical,surgeon,Doddaballapur,Itgalapur,Aster,20
+normal,physiologist,Itgalapur,Rajunkunte,Manipal ,10
+abnormal,surgeon,Yelhanka,Rajunkunte,Aster,15
+critical,cardiologist,Doddaballapur,Rajunkunte,sahasra,18
+abnormal,physiologist,Itgalapur,Doddaballapur,Aster,20
+critical,cardiologist,Yelhanka,Rajunkunte,Apollo,15
+normal,physiologist,Rajunkunte,Itgalapur,Aster,10
+critical,surgeon,Rajunkunte,Rajunkunte,Aster,0
+abnormal,cardiologist,Doddaballapur,Itgalapur,Apollo,20
+abnormal,Orthopedist,Itgalapur,Itgalapur,Aster,0
+critical,pediatrician,Doddaballapur,Yelhanka,Apollo,30
+normal,Radiologist,Itgalapur,Itgalapur,sahasra,0
