@@ -1,0 +1,113 @@
+<html>
+
+<head>
+
+<title> Aplus </title>
+
+<style>
+body{
+background-image: url(https://w0.peakpx.com/wallpaper/955/713/HD-wallpaper-doctor-medical.jpg);
+background-size : cover;
+text-color:white
+}
+
+form{
+text-align:center
+}
+
+input{
+width : 20%
+}
+input[type = submit]{
+background-color:green;
+width:10%;
+color : white
+
+}
+
+select{
+width : 20%
+}
+</style>
+
+</head>
+
+<body>
+
+<br></br>
+
+<center>
+
+    <h1 style = "color : white;"> Aplus App </h1>
+
+</center>
+
+<form action = "{{url_for('add')}}" method ="post">  
+
+<br></br>
+
+<form>
+
+<label for = "cn1"></label>
+
+<select id = "cn1" name ="cn1">
+   <option value = "0" > Abnormal</option>
+   <option value = "1" > Critical</option>
+   <option value = "2" > Normal</option>
+
+</select>
+
+<br></br>
+
+<label for = "cn2"></label>
+
+<select id = "cn2" name="cn2">
+<option value = "0" > Orthopedist</option>
+<option value = "1" > Radiologist</option>
+<option value = "2" > cardiologist</option>
+<option value = "3" > pediatrician</option>
+<option value = "4" > physiologist</option>
+<option value = "5" > surgeon</option>
+
+
+</select>
+
+<br></br>
+
+<label for = "location1"></label>
+
+<select id = "location1" name="ln1">
+<option value = "0" > Doddaballapur</option>
+<option value = "1" > Itgalapur</option>
+<option value = "2" > Rajunkunte</option>
+<option value = "3" > Yelhanka</option>
+
+</select>
+
+<br></br>
+
+
+<label for = "location2"></label>
+
+<select id = "location2" name="ln2">
+<option value = "0" > Doddaballapur</option>
+<option value = "1" > Itgalapur</option>
+<option value = "2" > Rajunkunte</option>
+<option value = "3" > Yelhanka</option>
+
+</select>
+
+<br></br>
+
+<label></label>
+<input id = "submit" type = "submit" value = "Search"></input>
+
+</form>
+
+<br></br>
+
+<center><h2 style = "color : white;">{{results}}<h2></center>
+
+</body>
+
+</html>
